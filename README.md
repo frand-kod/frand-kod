@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frand Odi</h1>
-<h3 align="center">A Junior Dev espesialy in front end web. sometimes take in Arduino and ESP32 and C# if burn out from it</h3>
+<h3 align="center">I'm a Junior Developer, mainly focused on front-end web development. Occasionally, I work with Arduino, ESP32, or C# as a break from the usual</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frand-kod&label=Profile%20views&color=0e75b6&style=flat" alt="frand-kod" /> </p>
 
