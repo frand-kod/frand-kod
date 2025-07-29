@@ -6,7 +6,7 @@
 <div align="center">
   <i>"Every expert was once a beginner" ✨</i>
 </div>
-#
+
 Wong Gabut Kesasar.. banting stir dari Penjurusan Kimia ke Informatika 
 Still Learn from bugs
 
