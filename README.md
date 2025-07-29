@@ -1,4 +1,4 @@
-# Hai! Saya Frand Odi 👋
+# Hai! Im Human 👋
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=frand-kod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
@@ -17,9 +17,9 @@ Still Learn from bugs
 
 Lagi belajar C++, C#, JavaScript, HTML, CSS, dan MySQL. n struggle sama beberapa konsep, tapi pelan-pelan mulai paham dan menikmati prosesnya.
 
-## Prinsip Coding
+## Nganu
 
-"Nothing is perfect, so don't forget to always justice down yourself"
+"Nothing is perfect, so don't forget to never justice down yourself"
 
 ## Stats GitHub
 
