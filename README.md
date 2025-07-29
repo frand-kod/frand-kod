@@ -1,4 +1,11 @@
 # Hai! Saya Frand Odi 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=frand-kod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>"Every expert was once a beginner" ✨</i>
+</div>
 
 Wong Gabut Kesasar.. banting stir dari Penjurusan Kimia ke Informatika 
 Still Learn from bugs
@@ -29,10 +36,3 @@ Asalkan masih bernafas dan Ngga Ngigit Gass salam koneksi.. Salam interaksi Skip
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=frand-kod&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>"Every expert was once a beginner" ✨</i>
-</div>
