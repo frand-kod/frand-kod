@@ -19,7 +19,7 @@ Lagi belajar C++, C#, JavaScript, HTML, CSS, dan MySQL. n struggle sama beberapa
 
 ## Nganu
 
-"Nothing is perfect, so don't forget to never justice down yourself"
+"Nothing is perfect, so never justice down yourself"
 
 ## Stats GitHub
 
