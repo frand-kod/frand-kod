@@ -1,4 +1,7 @@
 # Frand Odi Anggoro
+---
+all is well -3idiots
+---
 
 **Web Developer** navigating from Chemistry to Informatics — building systems that actually ship. Backend-first mindset with growing frontend fluency across the PHP and JavaScript ecosystems.
 
