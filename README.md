@@ -1,17 +1,6 @@
 # Frand Odi Anggoro
 ---
-
-{ [ 🤖 ] || 🛠️ }
-
-0xDEADBEEF // Code wizard @ Matrix.
-
-while(alive) { compile(_weird_💡_); }
-
-👽 "It works on my spaceship." 🌌
-
-<!— 10% human, 90% caffeine —>
-
-[■■■■■■■■■□] 99%
+**Web Dev And Machine Learning Enthusiasc**
 
 ---
 
