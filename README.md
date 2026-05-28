@@ -1,11 +1,17 @@
 # Frand Odi Anggoro
 ---
-**All is well**
----
 
-**Web Developer** navigating from Chemistry to Informatics — building systems that actually ship. Backend-first mindset with growing frontend fluency across the PHP and JavaScript ecosystems.
+{ [ 🤖 ] || 🛠️ }
 
-**Machine Learning Deployment** Bridging the gap between diverse algorithms—ranging from traditional linear models to advanced deep learning architectures like YOLO—and functional, production-ready software systems.
+0xDEADBEEF // Code wizard @ Matrix.
+
+while(alive) { compile(_weird_💡_); }
+
+👽 "It works on my spaceship." 🌌
+
+<!— 10% human, 90% caffeine —>
+
+[■■■■■■■■■□] 99%
 
 ---
 
