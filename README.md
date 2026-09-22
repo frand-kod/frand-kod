@@ -1,58 +1,86 @@
-# A Little Peace from Heaven
----
-**Web Dev And Machine Learning Enthusiasc**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=frand-kod&fontSize=42&fontColor=ff7a59&animation=fadeIn&fontAlignY=38&desc=A%20Little%20Peace%20from%20Heaven&descAlignY=58&descSize=16" width="100%"/>
+
+</div>
+
+<table>
+<td width="60%" valign="top">
+
+```
+frand-kod@dev ----------------------------------------
+. Uptime: .................. 25 years, 0 months, 0 days
+. IDE: ............................ VSCode 1.96.0
+
+. Languages.Real: .............. Indonesian, English
+
+. GitHub: .......................... frand-kod
+. LinkedIn: ........... frand-odi-anggoro-06163328a
+. Facebook: ............................ syakhsu
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF7A59&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Machine+Learning+Enthusiast;Laravel+%2B+React+%2B+Golang+tinkerer;Selalu+belajar%2C+selalu+bikin+project+baru" alt="Typing SVG" />
+</div>
 
 ---
 
-## What I Work With
+## 🛠️ Stack
 
-| Layer | Stack |
+| Layer | Tools |
 |---|---|
-| Backend | PHP · Laravel · MySQL · Python · Golang |
-| Frontend | React · JavaScript · Blade · TailwindCSS · Vue |
-| Tooling | Vite · Composer · Git |
+| Backend | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Data / ML | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| Tooling | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-**[letter-manager](https://github.com/frand-kod/letter-manager)**
-Organizational letter management system built on Laravel. Handles document creation, tracking, and routing — a practical take on administrative tooling with a proper MVC backend.
-`PHP` `Laravel` `Blade` `TailwindCSS` `MySQL`
+**[NetRadius](https://github.com/frand-kod/NetRadius)**
+Integrasi FreeRADIUS + Laravel untuk mengelola user hotspot di Mikrotik — solusi billing & auth yang rapi untuk ISP kecil-menengah.
+`PHP` `Laravel` `FreeRADIUS`
 
----
-
-**[madin-salafiyah](https://github.com/frand-kod/madin-salafiyah)**
-Web platform for a salafiyah Islamic school, built with React and deployed live on Vercel. Clean SPA architecture with TailwindCSS for responsive layout.
-`React` `JavaScript` `TailwindCSS` `Vite` · [Live →](https://madin-salafiyah.vercel.app)
+**[tobacco-leaf detection](https://github.com/frand-kod/tobacco-leaf)**
+Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau menggunakan deep learning — dari agrikultur ke AI.
+`Python` `Vue` `Machine Learning`
 
 ---
 
-**[web-blog](https://github.com/frand-kod/web-blog)**
-Full-stack blogging platform on Laravel with server-rendered Blade views. Covers content management basics with a clean routing and database layer underneath.
-`PHP` `Laravel` `Blade`
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=frand-kod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frand-kod&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frand-kod&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+###  Contribution Snake (auto-update via GitHub Action)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/frand-kod/frand-kod/output/github-contribution-grid-snake.svg" width="80%"/>
+</div>
+
+> Animasi ular ini bergerak memakan kotak kontribusimu dan ter-update otomatis setiap hari lewat GitHub Action. Cara pasangnya ada di bagian bawah README ini.
 
 ---
 
-**[tobacco leaf detection](https://github.com/frand-kod/tobacco-leaf)**
-A machine learning repository focuses on image processing and computer vision models to automate the classification and quality assessment of tobacco leaves. It provides deep learning pipelines to analyze leaf semantic features, grading parameters, and characteristics for industrial agricultural optimization
-`Vue` `Python` `Machine Learning`
+## 🔗 Connect
 
----
+<div align="center">
 
-**[belajar-react](https://github.com/frand-kod/belajar-react)**
-Active React learning sandbox. Component-driven, Vite-powered, and still in motion.
-`React` `JavaScript`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/frand-odi-anggoro-06163328a)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syakhsu/)
 
----
+</div>
 
-## GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=frand-kod&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frand-kod&theme=default&hide_border=true&layout=compact)
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/frand-odi-anggoro-06163328a) · [Facebook](https://www.facebook.com/syakhsu/) · Rawajitu, Tulang Bawang · UTC+07:00
