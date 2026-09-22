@@ -8,15 +8,15 @@
 <td width="60%" valign="top">
 
 ```
-frand-kod@dev ----------------------------------------
-. Uptime: .................. 25 years, 0 months, 0 days
-. IDE: ............................ VSCode 1.96.0
+frand-kod@dev -----------------.......................-----------------------
+. Uptime: ......................................... 25 years, 0 months, 0 days
+. IDE: ................................................. VSCode 1.96.0
 
-. Languages.Real: .............. Indonesian, English
+. Languages Real: ...................................... Indonesian, English
 
-. GitHub: .......................... frand-kod
-. LinkedIn: ........... frand-odi-anggoro-06163328a
-. Facebook: ............................ syakhsu
+. GitHub: ................................................. frand-kod
+. LinkedIn: .................................. frand-odi-anggoro-06163328a
+. Facebook: ................................................... syakhsu
 ```
 
 </td>
