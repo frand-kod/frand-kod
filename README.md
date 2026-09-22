@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=frand-kod&fontSize=42&fontColor=ff7a59&animation=fadeIn&fontAlignY=38&desc=A%20Little%20Peace%20from%20Heaven&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=A%20Little%20Peace%20from%20Heaven&fontSize=42&fontColor=ff7a59&animation=fadeIn" width="100%"/>
 
 </div>
 
