@@ -29,7 +29,7 @@ frand-kod@dev ----------------------------------------
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 | Layer | Tools |
 |---|---|
@@ -40,7 +40,7 @@ frand-kod@dev ----------------------------------------
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 **[NetRadius](https://github.com/frand-kod/NetRadius)**
 Integrasi FreeRADIUS + Laravel untuk mengelola user hotspot di Mikrotik — solusi billing & auth yang rapi untuk ISP kecil-menengah.
@@ -52,7 +52,7 @@ Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau men
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=frand-kod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
@@ -69,7 +69,6 @@ Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau men
 <img src="https://raw.githubusercontent.com/frand-kod/frand-kod/output/github-contribution-grid-snake.svg" width="80%"/>
 </div>
 
-> Animasi ular ini bergerak memakan kotak kontribusimu dan ter-update otomatis setiap hari lewat GitHub Action. Cara pasangnya ada di bagian bawah README ini.
 
 ---
 
