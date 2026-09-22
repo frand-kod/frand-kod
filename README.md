@@ -4,25 +4,6 @@
 
 </div>
 
-<table>
-<td width="60%" valign="top">
-
-```
-frand-kod@dev -----------------.......................-----------------------
-. Uptime: ......................................... 25 years, 0 months, 0 days
-. IDE: ................................................. VSCode 1.96.0
-
-. Languages Real: ...................................... Indonesian, English
-
-. GitHub: ................................................. frand-kod
-. LinkedIn: .................................. frand-odi-anggoro-06163328a
-. Facebook: ................................................... syakhsu
-```
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF7A59&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Machine+Learning+Enthusiast;Laravel+%2B+React+%2B+Golang+tinkerer;Selalu+belajar%2C+selalu+bikin+project+baru" alt="Typing SVG" />
 </div>
