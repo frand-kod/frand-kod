@@ -1,11 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=A%20Little%20Peace%20from%20Heaven&fontSize=42&fontColor=ff7a59&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF7A59&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Machine+Learning+Enthusiast;Laravel+%2B+React+%2B+Golang+tinkerer;Selalu+belajar%2C+selalu+bikin+project+baru" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,14 +9,15 @@
 
 | Layer | Tools |
 |---|---|
-| Backend | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Backend | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| Data / ML | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| Tooling | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
 ## Featured Projects
+**[GoBill](https://github.com/frand-kod/gobill)**
+NAS User Management, Dibuat dengan GO language, mendukung multiNAS, Qris payment dan Tripay (comming soon untuk Payment Gateway Lain) — solusi billing untuk ISP kecil-menengah.
+`RADIUUS Built in` `GOLANG` `SQLite`
 
 **[NetRadius](https://github.com/frand-kod/NetRadius)**
 Integrasi FreeRADIUS + Laravel untuk mengelola user hotspot di Mikrotik — solusi billing & auth yang rapi untuk ISP kecil-menengah.
@@ -30,6 +26,11 @@ Integrasi FreeRADIUS + Laravel untuk mengelola user hotspot di Mikrotik — solu
 **[tobacco-leaf detection](https://github.com/frand-kod/tobacco-leaf)**
 Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau menggunakan deep learning — dari agrikultur ke AI.
 `Python` `Vue` `Machine Learning`
+
+**[Content Generator for Social Media](https://gitlab.com/frandkampus99/social-media-generator)**
+Social Media Generator adalah platform multi-agent untuk mengumpulkan, menganalisis, dan mensintesis data tren sosial media
+`LangChain` `AI Frameworork` `Python`
+
 
 ---
 
@@ -44,7 +45,7 @@ Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau men
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=frand-kod&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
-###  Contribution Snake (auto-update via GitHub Action)
+###  Contribution 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/frand-kod/frand-kod/output/github-contribution-grid-snake.svg" width="80%"/>
@@ -53,7 +54,7 @@ Riset computer vision untuk klasifikasi dan penilaian kualitas daun tembakau men
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
